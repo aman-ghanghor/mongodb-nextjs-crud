@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+.icon {
+   margin-right: 0.5rem;
+}
+
+.icon:hover {
+   cursor: pointer;
+   color: blue;
+}
